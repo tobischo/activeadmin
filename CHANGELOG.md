@@ -1111,6 +1111,7 @@ Please check [0-6-stable] for previous changes.
 [@timoschilling]: https://github.com/timoschilling
 [@TimPetricola]: https://github.com/TimPetricola
 [@timwis]: https://github.com/timwis
+[@tobischo]: https://github.com/tobischo
 [@tomgilligan]: https://github.com/tomgilligan
 [@TonyArra]: https://github.com/TonyArra
 [@tordans]: https://github.com/tordans
